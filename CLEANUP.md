@@ -110,7 +110,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ### 03_Transport Scripts (5 scripts)
 
 #### Transport Playhead 1 Measure
-- [ ] `Transport Playhead 1 Measure_v001.lua`
+- [x] ~~`Transport Playhead 1 Measure_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Transport Playhead Forward 1 Measure_v001.lua`~~ → 41. Transport
 - [ ] `Transport Playhead Backward 1 Measure_v001.lua`
 
@@ -467,10 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 1
+- **Tested:** 2
 - **Moved to Permanent:** 1
+- **Deleted:** 1
 - **Broken/Needs Fix:** 0
-- **Remaining:** 287
+- **Remaining:** 286
 
 ---
 
