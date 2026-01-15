@@ -76,7 +76,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Midi Velocity Linear Compressor Slider_v001.lua`~~ → 18. MIDI
 
 #### Reduce Midi Velocity by Percent
-- [ ] `Reduce Midi Velocity by Percentage_v001.lua`
+- [x] ~~`Reduce Midi Velocity by Percentage_v001.lua`~~ DELETED
 
 #### Midi cc64 Hold Pedal
 - [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`
@@ -450,7 +450,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Midi Velocity Compressor 5%_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi Velocity Compressor 50%_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi Velocity Linear Compressor Slider_v001.lua`~~ DELETED (duplicate)
-- [ ] `Reduce Midi Velocity by Percentage_v001.lua`
+- [x] ~~`Reduce Midi Velocity by Percentage_v001.lua`~~ DELETED (duplicate)
 - [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`
 - [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`
 - [ ] `Fill note ends to the start of next note_001.lua`
@@ -469,9 +469,9 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - **Total Scripts:** 288
 - **Tested:** 21
 - **Moved to Permanent:** 16
-- **Deleted:** 22
+- **Deleted:** 24
 - **Broken/Needs Fix:** 0
-- **Remaining:** 248
+- **Remaining:** 246
 
 ---
 
