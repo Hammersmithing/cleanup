@@ -481,5 +481,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ### 2026-01-15
 - Created cleanup tracking project
 - Inventoried all 288 scripts
-- Ready to begin testing
+- Tested and moved Transport Playhead Forward 1 Measure → 41. Transport
+- Tested and moved Transport Playhead Backward 1 Measure → 41. Transport
+- Deleted duplicate Transport Playhead 1 Measure_v001.lua
+- Tested and moved Toggle Hide:View All Unused Tracks_007 → 39. Tracks
+- Deleted 6 older versions of Toggle Hide/View script (001-006)
+- Created OSC button "Show/Hide Unused Tracks" (p1_view_unusedtracks)
+- Updated all spreadsheets and OSC bindings
 
