@@ -132,13 +132,13 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [ ] `Expand all children tracks if children tracks are used small view_02.lua`
 - [ ] `Expand all children tracks if children tracks are used.lua`
 - [ ] `Uncollapse all folder stacks.lua`
-- [ ] `001. Toggle Hide:View All Unused Tracks_001.lua`
-- [ ] `001. Toggle Hide:View All Unused Tracks_002.lua`
-- [ ] `001. Toggle Hide:View All Unused Tracks_003.lua`
-- [ ] `Toggle Hide:View All Unused Tracks_004.lua`
-- [ ] `Toggle Hide:View All Unused Tracks_005.lua`
-- [ ] `Toggle Hide:View All Unused Tracks_006.lua`
-- [ ] `Toggle Hide:View All Unused Tracks_007.lua`
+- [x] ~~`001. Toggle Hide:View All Unused Tracks_001.lua`~~ DELETED (old version)
+- [x] ~~`001. Toggle Hide:View All Unused Tracks_002.lua`~~ DELETED (old version)
+- [x] ~~`001. Toggle Hide:View All Unused Tracks_003.lua`~~ DELETED (old version)
+- [x] ~~`Toggle Hide:View All Unused Tracks_004.lua`~~ DELETED (old version)
+- [x] ~~`Toggle Hide:View All Unused Tracks_005.lua`~~ DELETED (old version)
+- [x] ~~`Toggle Hide:View All Unused Tracks_006.lua`~~ DELETED (old version)
+- [x] ~~`Toggle Hide:View All Unused Tracks_007.lua`~~ → 39. Tracks
 
 #### Search Track
 - [ ] `Search Track.lua`
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 3
-- **Moved to Permanent:** 2
-- **Deleted:** 1
+- **Tested:** 10
+- **Moved to Permanent:** 3
+- **Deleted:** 7
 - **Broken/Needs Fix:** 0
-- **Remaining:** 285
+- **Remaining:** 278
 
 ---
 
