@@ -69,11 +69,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [ ] `Quantize Selected Midi Note Max Velocity80_v001.lua`
 
 #### Midi Velocity Compressor
-- [ ] `Midi Velocity Compressor 20%_v001.lua`
-- [ ] `Midi Velocity Compressor 30%_v001.lua`
-- [ ] `Midi Velocity Compressor 5%_v001.lua`
-- [ ] `Midi Velocity Compressor 50%_v001.lua`
-- [ ] `Midi Velocity Linear Compressor Slider_v001.lua`
+- [x] ~~`Midi Velocity Compressor 20%_v001.lua`~~ → 18. MIDI
+- [x] ~~`Midi Velocity Compressor 30%_v001.lua`~~ → 18. MIDI
+- [x] ~~`Midi Velocity Compressor 5%_v001.lua`~~ → 18. MIDI
+- [x] ~~`Midi Velocity Compressor 50%_v001.lua`~~ → 18. MIDI
+- [x] ~~`Midi Velocity Linear Compressor Slider_v001.lua`~~ → 18. MIDI
 
 #### Reduce Midi Velocity by Percent
 - [ ] `Reduce Midi Velocity by Percentage_v001.lua`
@@ -445,11 +445,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [ ] `Quantize Selected Midi Note Max Velocity40_v001.lua`
 - [ ] `Quantize Selected Midi Note Max Velocity60_v001.lua`
 - [ ] `Quantize Selected Midi Note Max Velocity80_v001.lua`
-- [ ] `Midi Velocity Compressor 20%_v001.lua`
-- [ ] `Midi Velocity Compressor 30%_v001.lua`
-- [ ] `Midi Velocity Compressor 5%_v001.lua`
-- [ ] `Midi Velocity Compressor 50%_v001.lua`
-- [ ] `Midi Velocity Linear Compressor Slider_v001.lua`
+- [x] ~~`Midi Velocity Compressor 20%_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Midi Velocity Compressor 30%_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Midi Velocity Compressor 5%_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Midi Velocity Compressor 50%_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Midi Velocity Linear Compressor Slider_v001.lua`~~ DELETED (duplicate)
 - [ ] `Reduce Midi Velocity by Percentage_v001.lua`
 - [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`
 - [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 10
-- **Moved to Permanent:** 3
-- **Deleted:** 7
+- **Tested:** 15
+- **Moved to Permanent:** 8
+- **Deleted:** 12
 - **Broken/Needs Fix:** 0
-- **Remaining:** 278
+- **Remaining:** 268
 
 ---
 
@@ -488,4 +488,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - Deleted 6 older versions of Toggle Hide/View script (001-006)
 - Created OSC button "Show/Hide Unused Tracks" (p1_view_unusedtracks)
 - Updated all spreadsheets and OSC bindings
+- Moved 5 Midi Velocity Compressor scripts → 18. MIDI
+- Created 5 OSC buttons on Page 2 for velocity compressors
+- Deleted 5 duplicate velocity compressor scripts from "These need sorted"
 
