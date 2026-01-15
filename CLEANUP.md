@@ -54,7 +54,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 #### Toggle Midi CC 011 Lane
 - [x] ~~`Toggle Midi CC 011 Lane_v001.lua`~~ DELETED (older version, permanent exists in 19. MIDI Editor)
-- [ ] `Toggle Midi CC 011 Lane_v002.lua` ⚠️ MISLABELED - actually CC1 (Mod Wheel) toggle
+- [x] ~~`Toggle Midi CC 011 Lane_v002.lua`~~ DELETED (was CC1 toggle, already in 19. MIDI Editor as CC01)
 - [x] ~~`Toggle Midi CC 011 Lane_v003.lua`~~ DELETED (duplicate of permanent)
 
 #### Quantize Selected Midi Notes End to Forward Grid
@@ -469,9 +469,9 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - **Total Scripts:** 288
 - **Tested:** 21
 - **Moved to Permanent:** 14
-- **Deleted:** 21
+- **Deleted:** 22
 - **Broken/Needs Fix:** 0
-- **Remaining:** 253
+- **Remaining:** 252
 
 ---
 
@@ -498,4 +498,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - Deleted Toggle Midi CC 011 Lane_v003.lua (duplicate of permanent)
 - Deleted ALDENHammersmith_Toggle Midi Lane CC11.lua from "These need sorted" (duplicate)
 - Note: v002 is mislabeled - actually CC1 (Mod Wheel) toggle, not CC11
+- Deleted v002 (CC01 already finalized in 19. MIDI Editor)
+- Added Toggle CC11 and Toggle CC01 buttons to Page 2 of OSC layout
+- Added ALDENHammersmith_Toggle Midi Lane CC01.lua to GitHub
+- Added ALDENHammersmith_Toggle Midi Lane CC11.lua to GitHub
 
