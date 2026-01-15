@@ -61,12 +61,12 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [ ] `Quantize Selected Midi Notes End to Forward Grid_v001.lua`
 
 #### Quantize Midi Velocity Max
-- [ ] `Quantize Selected Midi Note Max Velocity100_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity120_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity20_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity40_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity60_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity80_v001.lua`
+- [x] ~~`Quantize Selected Midi Note Max Velocity100_v001.lua`~~ → 18. MIDI
+- [x] ~~`Quantize Selected Midi Note Max Velocity120_v001.lua`~~ → 18. MIDI
+- [x] ~~`Quantize Selected Midi Note Max Velocity20_v001.lua`~~ → 18. MIDI
+- [x] ~~`Quantize Selected Midi Note Max Velocity40_v001.lua`~~ → 18. MIDI
+- [x] ~~`Quantize Selected Midi Note Max Velocity60_v001.lua`~~ → 18. MIDI
+- [x] ~~`Quantize Selected Midi Note Max Velocity80_v001.lua`~~ → 18. MIDI
 
 #### Midi Velocity Compressor
 - [x] ~~`Midi Velocity Compressor 20%_v001.lua`~~ → 18. MIDI
@@ -439,12 +439,12 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 - [ ] `ALDENHammersmith_Toggle Midi Lane CC11.lua`
 - [ ] `Quantize Selected Midi Notes End to Forward Grid.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity100_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity120_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity20_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity40_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity60_v001.lua`
-- [ ] `Quantize Selected Midi Note Max Velocity80_v001.lua`
+- [x] ~~`Quantize Selected Midi Note Max Velocity100_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Quantize Selected Midi Note Max Velocity120_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Quantize Selected Midi Note Max Velocity20_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Quantize Selected Midi Note Max Velocity40_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Quantize Selected Midi Note Max Velocity60_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Quantize Selected Midi Note Max Velocity80_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi Velocity Compressor 20%_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi Velocity Compressor 30%_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi Velocity Compressor 5%_v001.lua`~~ DELETED (duplicate)
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 15
-- **Moved to Permanent:** 8
-- **Deleted:** 12
+- **Tested:** 21
+- **Moved to Permanent:** 14
+- **Deleted:** 18
 - **Broken/Needs Fix:** 0
-- **Remaining:** 268
+- **Remaining:** 256
 
 ---
 
@@ -491,4 +491,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - Moved 5 Midi Velocity Compressor scripts → 18. MIDI
 - Created 5 OSC buttons on Page 2 for velocity compressors
 - Deleted 5 duplicate velocity compressor scripts from "These need sorted"
+- Moved 6 Quantize Midi Velocity Max scripts → 18. MIDI
+- Created 6 OSC buttons on Page 2 for velocity max (row 2)
+- Deleted 6 duplicate velocity max scripts from "These need sorted"
 
