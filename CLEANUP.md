@@ -505,4 +505,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - Moved Insert 4:4 and 5:4 Time Signature scripts → 35. Tempo and Time Signature
 - Added time signature scripts to GitHub and Action List
 - Created OSC buttons p2_timesig_44 and p2_timesig_54 on Page 2
+- Created 10 NEW time signature scripts (3/4, 2/4, 6/8, 7/8, 12/8, 9/8, 5/8, 11/8, 7/4, 6/4)
+- All 12 time signatures in permanent folder 35. Tempo and Time Signature
+- All 12 time signatures have OSC buttons on Page 2 (Row 4: 4/4, 5/4, 3/4, 6/8, 7/8, 2/4 | Row 5: 12/8, 9/8, 5/8, 11/8, 7/4, 6/4)
+- Added all time signatures to scripts spreadsheet and OSC buttons spreadsheet
 
