@@ -53,9 +53,9 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [ ] `Toggle Pencil and Lasso for Midi Editor_v001.lua`
 
 #### Toggle Midi CC 011 Lane
-- [ ] `Toggle Midi CC 011 Lane_v001.lua`
-- [ ] `Toggle Midi CC 011 Lane_v002.lua`
-- [ ] `Toggle Midi CC 011 Lane_v003.lua`
+- [x] ~~`Toggle Midi CC 011 Lane_v001.lua`~~ DELETED (older version, permanent exists in 19. MIDI Editor)
+- [ ] `Toggle Midi CC 011 Lane_v002.lua` ⚠️ MISLABELED - actually CC1 (Mod Wheel) toggle
+- [x] ~~`Toggle Midi CC 011 Lane_v003.lua`~~ DELETED (duplicate of permanent)
 
 #### Quantize Selected Midi Notes End to Forward Grid
 - [ ] `Quantize Selected Midi Notes End to Forward Grid_v001.lua`
@@ -437,7 +437,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ### "These need sorted" Folder (24 scripts - DUPLICATES)
 *These appear to be copies of scripts from 01_MIDI. Verify and delete duplicates.*
 
-- [ ] `ALDENHammersmith_Toggle Midi Lane CC11.lua`
+- [x] ~~`ALDENHammersmith_Toggle Midi Lane CC11.lua`~~ DELETED (duplicate of 19. MIDI Editor version)
 - [ ] `Quantize Selected Midi Notes End to Forward Grid.lua`
 - [x] ~~`Quantize Selected Midi Note Max Velocity100_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Quantize Selected Midi Note Max Velocity120_v001.lua`~~ DELETED (duplicate)
@@ -469,9 +469,9 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - **Total Scripts:** 288
 - **Tested:** 21
 - **Moved to Permanent:** 14
-- **Deleted:** 18
+- **Deleted:** 21
 - **Broken/Needs Fix:** 0
-- **Remaining:** 256
+- **Remaining:** 253
 
 ---
 
@@ -494,4 +494,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - Moved 6 Quantize Midi Velocity Max scripts → 18. MIDI
 - Created 6 OSC buttons on Page 2 for velocity max (row 2)
 - Deleted 6 duplicate velocity max scripts from "These need sorted"
+- Deleted Toggle Midi CC 011 Lane_v001.lua (older version)
+- Deleted Toggle Midi CC 011 Lane_v003.lua (duplicate of permanent)
+- Deleted ALDENHammersmith_Toggle Midi Lane CC11.lua from "These need sorted" (duplicate)
+- Note: v002 is mislabeled - actually CC1 (Mod Wheel) toggle, not CC11
 
