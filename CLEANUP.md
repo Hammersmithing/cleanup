@@ -261,10 +261,10 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ### 17_Timeline Scripts (5 scripts)
 
 #### Time Signature
-- [ ] `Insert 4:4 Time Signature at Playhead_v001.lua`
-- [ ] `Insert 4:4 Time Signature at Playhead_v002.lua`
-- [ ] `Insert 5:4 Time Signature at Playhead_v001.lua`
-- [ ] `Insert 5:4 Time Signature at Playhead_v002.lua`
+- [x] ~~`Insert 4:4 Time Signature at Playhead_v001.lua`~~ NOT FOUND (only v002 existed)
+- [x] ~~`Insert 4:4 Time Signature at Playhead_v002.lua`~~ → 35. Tempo and Time Signature
+- [x] ~~`Insert 5:4 Time Signature at Playhead_v001.lua`~~ NOT FOUND (only v002 existed)
+- [x] ~~`Insert 5:4 Time Signature at Playhead_v002.lua`~~ → 35. Tempo and Time Signature
 
 #### Tempo Mapping
 - [ ] `Generate tempo and time signature on midi_v001.lua`
@@ -468,10 +468,10 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ## Progress Summary
 - **Total Scripts:** 288
 - **Tested:** 21
-- **Moved to Permanent:** 14
+- **Moved to Permanent:** 16
 - **Deleted:** 22
 - **Broken/Needs Fix:** 0
-- **Remaining:** 252
+- **Remaining:** 248
 
 ---
 
@@ -502,4 +502,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - Added Toggle CC11 and Toggle CC01 buttons to Page 2 of OSC layout
 - Added ALDENHammersmith_Toggle Midi Lane CC01.lua to GitHub
 - Added ALDENHammersmith_Toggle Midi Lane CC11.lua to GitHub
+- Moved Insert 4:4 and 5:4 Time Signature scripts → 35. Tempo and Time Signature
+- Added time signature scripts to GitHub and Action List
+- Created OSC buttons p2_timesig_44 and p2_timesig_54 on Page 2
 
