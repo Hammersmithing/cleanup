@@ -102,8 +102,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Select all Midi Notes in Prroject_v001.lua`~~ → 18. MIDI
 
 #### Transpose Project Midi
-- [ ] `Transpose Project Midi +1 Semitone_v001.lua`
-- [ ] `Transpose Project Midi -1 Semitone.lua`
+- [x] ~~`Transpose Project Midi +1 Semitone_v001.lua`~~ → 18. MIDI
+- [x] ~~`Transpose Project Midi -1 Semitone.lua`~~ → 18. MIDI
 
 ---
 
@@ -460,18 +460,18 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Nudge Selected Midi Notes Back 100 ms_001.lua`~~ DELETED (duplicate)
 - [x] ~~`Convert Pedal to sustain midi notes_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Select all Midi Notes in Prroject_v001.lua`~~ DELETED (duplicate)
-- [ ] `Transpose Project Midi +1 Semitone_v001.lua`
-- [ ] `Transpose Project Midi -1 Semitone.lua`
+- [x] ~~`Transpose Project Midi +1 Semitone_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Transpose Project Midi -1 Semitone.lua`~~ DELETED (duplicate)
 
 ---
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 31
-- **Moved to Permanent:** 23
-- **Deleted:** 41
+- **Tested:** 33
+- **Moved to Permanent:** 25
+- **Deleted:** 45
 - **Broken/Needs Fix:** 1
-- **Remaining:** 226
+- **Remaining:** 222
 
 ---
 
