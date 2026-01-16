@@ -119,9 +119,9 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Backward Toggle to Next Used Midi Track_001.lua`~~ → 22. Navigation (as Select Previous Track With MIDI)
 
 #### Advance/Regress 10 measures (root level)
-- [ ] `Advance 10 measures.lua`
-- [ ] `Advance playhead 10 measures.lua`
-- [ ] `Regress playhead 10 measures.lua`
+- [x] ~~`Advance 10 measures.lua`~~ DELETED (empty file)
+- [x] ~~`Advance playhead 10 measures.lua`~~ → 41. Transport
+- [x] ~~`Regress playhead 10 measures.lua`~~ → 41. Transport
 
 ---
 
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 35
-- **Moved to Permanent:** 27
-- **Deleted:** 45
+- **Tested:** 38
+- **Moved to Permanent:** 29
+- **Deleted:** 46
 - **Broken/Needs Fix:** 1
-- **Remaining:** 220
+- **Remaining:** 217
 
 ---
 
