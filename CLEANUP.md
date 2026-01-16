@@ -148,12 +148,12 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ### 11_Render_Export Scripts (6 scripts)
 
 #### Clear Regions from Render Matrix
-- [ ] `Clear Selected Regions from Render Matrix_v001.lua`
-- [ ] `Clear All Regions from Render Matrix_v002.lua`
-- [ ] `Clear All Regions from Render Matrix_v003.lua`
-- [ ] `Clear All Regions from Render Matrix_v004.lua`
-- [ ] `Clear All Regions from Render Matrix_v005.lua`
-- [ ] `-- Clear All Regions from Render Matrix_v006.lua`
+- [x] ~~`Clear Selected Regions from Render Matrix_v001.lua`~~ DELETED (older version)
+- [x] ~~`Clear All Regions from Render Matrix_v002.lua`~~ DELETED (older version)
+- [x] ~~`Clear All Regions from Render Matrix_v003.lua`~~ DELETED (older version)
+- [x] ~~`Clear All Regions from Render Matrix_v004.lua`~~ DELETED (older version)
+- [x] ~~`Clear All Regions from Render Matrix_v005.lua`~~ → 26. Rendering
+- [x] ~~`-- Clear All Regions from Render Matrix_v006.lua`~~ DELETED (older version)
 
 ---
 
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 39
-- **Moved to Permanent:** 30
-- **Deleted:** 46
+- **Tested:** 45
+- **Moved to Permanent:** 31
+- **Deleted:** 51
 - **Broken/Needs Fix:** 1
-- **Remaining:** 216
+- **Remaining:** 210
 
 ---
 
