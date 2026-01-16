@@ -141,7 +141,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Toggle Hide:View All Unused Tracks_007.lua`~~ → 39. Tracks
 
 #### Search Track
-- [ ] `Search Track.lua`
+- [x] ~~`Search Track.lua`~~ → 39. Tracks
 
 ---
 
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 38
-- **Moved to Permanent:** 29
+- **Tested:** 39
+- **Moved to Permanent:** 30
 - **Deleted:** 46
 - **Broken/Needs Fix:** 1
-- **Remaining:** 217
+- **Remaining:** 216
 
 ---
 
