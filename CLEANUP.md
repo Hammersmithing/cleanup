@@ -50,7 +50,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ### 01_MIDI Scripts (28 scripts)
 
 #### Toggle Pencil and Lasso
-- [ ] `Toggle Pencil and Lasso for Midi Editor_v001.lua`
+- [!] `Toggle Pencil and Lasso for Midi Editor_v001.lua` - Needs work: mouse modifier API issues, revisit later
 
 #### Toggle Midi CC 011 Lane
 - [x] ~~`Toggle Midi CC 011 Lane_v001.lua`~~ DELETED (older version, permanent exists in 19. MIDI Editor)
@@ -58,7 +58,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Toggle Midi CC 011 Lane_v003.lua`~~ DELETED (duplicate of permanent)
 
 #### Quantize Selected Midi Notes End to Forward Grid
-- [ ] `Quantize Selected Midi Notes End to Forward Grid_v001.lua`
+- [x] ~~`Quantize Selected Midi Notes End to Forward Grid_v001.lua`~~ → 18. MIDI
 
 #### Quantize Midi Velocity Max
 - [x] ~~`Quantize Selected Midi Note Max Velocity100_v001.lua`~~ → 18. MIDI
@@ -79,8 +79,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Reduce Midi Velocity by Percentage_v001.lua`~~ DELETED
 
 #### Midi cc64 Hold Pedal
-- [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`
-- [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`
+- [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`~~ → 18. MIDI
+- [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`~~ DELETED (v001 is better - time-sig aware)
 
 #### Fill note ends to the start of next note
 - [ ] `Fill note ends to the start of next note_001.lua`
@@ -438,7 +438,7 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 *These appear to be copies of scripts from 01_MIDI. Verify and delete duplicates.*
 
 - [x] ~~`ALDENHammersmith_Toggle Midi Lane CC11.lua`~~ DELETED (duplicate of 19. MIDI Editor version)
-- [ ] `Quantize Selected Midi Notes End to Forward Grid.lua`
+- [x] ~~`Quantize Selected Midi Notes End to Forward Grid.lua`~~ DELETED (duplicate, moved main to 18. MIDI)
 - [x] ~~`Quantize Selected Midi Note Max Velocity100_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Quantize Selected Midi Note Max Velocity120_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Quantize Selected Midi Note Max Velocity20_v001.lua`~~ DELETED (duplicate)
@@ -451,8 +451,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Midi Velocity Compressor 50%_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi Velocity Linear Compressor Slider_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Reduce Midi Velocity by Percentage_v001.lua`~~ DELETED (duplicate)
-- [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`
-- [ ] `Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`
+- [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`~~ DELETED (duplicate)
+- [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`~~ DELETED (duplicate)
 - [ ] `Fill note ends to the start of next note_001.lua`
 - [ ] `Fill note ends to the start of next note_002.lua`
 - [ ] `Make Monophonic Legato_002.lua`
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 21
-- **Moved to Permanent:** 16
-- **Deleted:** 24
-- **Broken/Needs Fix:** 0
-- **Remaining:** 246
+- **Tested:** 24
+- **Moved to Permanent:** 18
+- **Deleted:** 28
+- **Broken/Needs Fix:** 1
+- **Remaining:** 240
 
 ---
 
