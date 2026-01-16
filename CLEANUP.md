@@ -160,101 +160,101 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 ### 16_Composing Scripts (72 scripts)
 
 #### Select Voicing from Selected Notes
-- [ ] `Select Voicing from Selected Notes_v001.lua`
-- [ ] `Select Voicing from Selected Notes_v002.lua`
+- [ ] `Select Voicing from Selected Notes_v001.lua` SKIPPED
+- [ ] `Select Voicing from Selected Notes_v002.lua` SKIPPED
 
-#### Build Midi into Seperate LUA Editor (v001-v038)
-- [ ] `Build Midi into Seperate LUA Editor_v001.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v002.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v003.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v004.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v005.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v006.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v007.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v008.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v009.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v010.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v011.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v012.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v013.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v014.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v015.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v016.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v017.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v018.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v019.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v020.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v021.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v022.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v023.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v024.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v025.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v026.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v027.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v028.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v029.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v030.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v031.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v032.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v033.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v034.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v035.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v036.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v037.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v038.lua`
-- [ ] `Untitled.lua`
+#### Build Midi into Seperate LUA Editor (v001-v038) - SKIPPED ENTIRE SERIES
+- [ ] `Build Midi into Seperate LUA Editor_v001.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v002.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v003.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v004.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v005.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v006.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v007.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v008.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v009.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v010.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v011.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v012.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v013.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v014.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v015.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v016.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v017.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v018.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v019.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v020.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v021.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v022.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v023.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v024.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v025.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v026.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v027.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v028.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v029.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v030.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v031.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v032.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v033.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v034.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v035.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v036.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v037.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v038.lua` SKIPPED
+- [ ] `Untitled.lua` SKIPPED
 
-#### Build Midi into Seperate LUA Editor (v1.028.xxx series)
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.001.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.002.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.003.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.004.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.005.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.006.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.007.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.008.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.009.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.010.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.011.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.012.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.013.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.014.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.015.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.016.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.017.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.018.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.019.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.020.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.021.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.022.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v1.028.023.lua`
+#### Build Midi into Seperate LUA Editor (v1.028.xxx series) - SKIPPED ENTIRE SERIES
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.001.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.002.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.003.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.004.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.005.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.006.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.007.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.008.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.009.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.010.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.011.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.012.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.013.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.014.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.015.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.016.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.017.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.018.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.019.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.020.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.021.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.022.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v1.028.023.lua` SKIPPED
 
-#### Build Midi into Seperate LUA Editor V002 (v2.xxx series)
-- [ ] `Build Midi into Seperate LUA Editor_v2.001.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.002.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.003.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.004.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.005.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.006.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.007.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.008.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.009.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.010.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.011.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.012.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.013.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.014.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.015.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.016.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.017.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.018.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.019.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.020.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.021.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.022.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.023.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.024.lua`
-- [ ] `Build Midi into Seperate LUA Editor_v2.025.lua`
+#### Build Midi into Seperate LUA Editor V002 (v2.xxx series) - SKIPPED ENTIRE SERIES
+- [ ] `Build Midi into Seperate LUA Editor_v2.001.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.002.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.003.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.004.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.005.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.006.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.007.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.008.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.009.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.010.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.011.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.012.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.013.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.014.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.015.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.016.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.017.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.018.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.019.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.020.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.021.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.022.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.023.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.024.lua` SKIPPED
+- [ ] `Build Midi into Seperate LUA Editor_v2.025.lua` SKIPPED
 
 ---
 
