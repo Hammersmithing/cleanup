@@ -87,10 +87,10 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Fill note ends to the start of next note_002.lua`~~ DELETED
 
 #### Make Monophonic Legato
-- [ ] `Make Monophonic Legato_002.lua`
+- [x] ~~`Make Monophonic Legato_002.lua`~~ → 18. MIDI
 
 #### Shorten Midi Ends 25ms
-- [ ] `Shorten Selected Midi Ends 25 ms_001.lua`
+- [x] ~~`Shorten Selected Midi Ends 25 ms_001.lua`~~ → 18. MIDI
 
 #### Nudge Selected Midi Notes Back 100 ms
 - [ ] `Nudge Selected Midi Notes Back 100 ms_001.lua`
@@ -455,8 +455,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`~~ DELETED (duplicate)
 - [x] ~~`Fill note ends to the start of next note_001.lua`~~ DELETED (duplicate)
 - [x] ~~`Fill note ends to the start of next note_002.lua`~~ DELETED (duplicate)
-- [ ] `Make Monophonic Legato_002.lua`
-- [ ] `Shorten Selected Midi Ends 25 ms_001.lua`
+- [x] ~~`Make Monophonic Legato_002.lua`~~ DELETED (duplicate)
+- [x] ~~`Shorten Selected Midi Ends 25 ms_001.lua`~~ DELETED (duplicate)
 - [ ] `Nudge Selected Midi Notes Back 100 ms_001.lua`
 - [ ] `Convert Pedal to sustain midi notes_v001.lua`
 - [ ] `Select all Midi Notes in Prroject_v001.lua`
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 26
-- **Moved to Permanent:** 18
-- **Deleted:** 32
+- **Tested:** 28
+- **Moved to Permanent:** 20
+- **Deleted:** 35
 - **Broken/Needs Fix:** 1
-- **Remaining:** 236
+- **Remaining:** 232
 
 ---
 
