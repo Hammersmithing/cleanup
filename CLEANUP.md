@@ -83,8 +83,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`~~ DELETED (v001 is better - time-sig aware)
 
 #### Fill note ends to the start of next note
-- [ ] `Fill note ends to the start of next note_001.lua`
-- [ ] `Fill note ends to the start of next note_002.lua`
+- [x] ~~`Fill note ends to the start of next note_001.lua`~~ DELETED
+- [x] ~~`Fill note ends to the start of next note_002.lua`~~ DELETED
 
 #### Make Monophonic Legato
 - [ ] `Make Monophonic Legato_002.lua`
@@ -453,8 +453,8 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 - [x] ~~`Reduce Midi Velocity by Percentage_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v001.lua`~~ DELETED (duplicate)
 - [x] ~~`Midi cc64 Hold Pedal_Pedal off 1 beat_v002.lua`~~ DELETED (duplicate)
-- [ ] `Fill note ends to the start of next note_001.lua`
-- [ ] `Fill note ends to the start of next note_002.lua`
+- [x] ~~`Fill note ends to the start of next note_001.lua`~~ DELETED (duplicate)
+- [x] ~~`Fill note ends to the start of next note_002.lua`~~ DELETED (duplicate)
 - [ ] `Make Monophonic Legato_002.lua`
 - [ ] `Shorten Selected Midi Ends 25 ms_001.lua`
 - [ ] `Nudge Selected Midi Notes Back 100 ms_001.lua`
@@ -467,11 +467,11 @@ This project tracks the cleanup and organization of 288 Lua scripts currently in
 
 ## Progress Summary
 - **Total Scripts:** 288
-- **Tested:** 24
+- **Tested:** 26
 - **Moved to Permanent:** 18
-- **Deleted:** 28
+- **Deleted:** 32
 - **Broken/Needs Fix:** 1
-- **Remaining:** 240
+- **Remaining:** 236
 
 ---
 
